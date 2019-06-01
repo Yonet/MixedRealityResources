@@ -8,6 +8,13 @@ Mixed Reality related resources
   * [WebXR](#webxr)
     * [WebXR Repositories](#webxr-repositories)
     * [WebXR Documentation](#webxr-documentation)
+* [Create](#create)
+    * [Asset Creation Tools](#asset-creation-tools)
+    * [Inspirations](#inspirations)
+* [Attend](#attend)
+    * [Conferences](#confereces)
+    * [Meetups](#meetups)
+        * [San Francisco](#san-francisco)
 
 ## Design
 
@@ -31,6 +38,7 @@ Mixed Reality related resources
 | :--- | :--- | :--- |
 
 * [Mixed Reality Toolkit Demos](https://github.com/microsoft/MixedRealityToolkit-Unity/tree/mrtk_release/Assets/MixedRealityToolkit.Examples/Demos?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [Enklu Player](https://github.com/enklu/enklu-samples)
 * [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 
 ### WebXR
@@ -38,6 +46,7 @@ Mixed Reality related resources
 #### WebXR Repositories 
 
 * [WebXR Polyfills](https://github.com/immersive-web/webxr-polyfill)
+* [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 
 #### WebXR Documentation
@@ -46,3 +55,42 @@ Mixed Reality related resources
 * [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
 * [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
 * [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
+* [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
+* [WebVR Rocks](https://webvr.rocks/)
+
+#### Tutorials
+
+* [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
+
+## Create
+
+### Asset Creation Tools
+
+* [Magic Voxel](https://ephtracy.github.io/index.html?page=mv_main)
+
+
+### Asset Libraries
+
+* [Poly](https://poly.google.com/)
+* [Sketchfab](https://sketchfab.com/)
+
+### Inspirations
+
+* [Google WebVR Experiments](https://experiments.withgoogle.com/collection/webvr)
+* [Google AR Experiments](https://experiments.withgoogle.com/collection/ar)
+
+## Attend
+
+### Conferences
+
+* [Augmented Worls Expo](https://www.awexr.com/) - USA, Europe
+
+### Meetups
+
+#### San Francisco
+
+* [HoloLens and Mixed Reality Meetup](https://www.meetup.com/hololens-mr/members/?sort=join_date&desc=true)
+* [SF Augmented Reality Meetups](https://www.meetup.com/topics/augmented-reality/us/ca/san_francisco/)
+* [SF Mixed Reality Meetups](https://www.meetup.com/topics/augmented-mixed-reality/us/ca/san_francisco/)
