@@ -12,7 +12,7 @@ Mixed Reality related resources
 ## Design
 
 * [Microsoft Mixed Reality Design](https://docs.microsoft.com/windows/mixed-reality/design?WT.mc_id=mixedrealityresources-github-ayyonet)
- ![Design for mixed reality](images/Bicycle-Leschi10.gif)
+ ![Design for mixed reality](images/bicycle-leschi10.gif)
 
 * [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
 
