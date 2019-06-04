@@ -6,6 +6,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   * [Documentation](#documentation)
   * [Repositories](#repositories)
   * [WebXR](#webxr)
+    * [WebXR Libraries](#webxr-libraries)
     * [WebXR Repositories](#webxr-repositories)
     * [WebXR Documentation](#webxr-documentation)
 * [Create](#create)
@@ -18,10 +19,28 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ## Design
 
+### Guidelines
+
 * [Microsoft Mixed Reality Design](https://docs.microsoft.com/windows/mixed-reality/design?WT.mc_id=mixedrealityresources-github-ayyonet)
  ![Design for mixed reality](images/bicycle-leschi10.gif)
 
 * [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
+
+### Blogs:
+
+* [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
+
+### Talks:
+
+* [Instructional Design on the Immersive Web](https://youtu.be/ZX_8fiW1_Y4?t=220)
+
+### Tools: 
+
+* [Unity3D](https://unity.com/)
+* [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+* [Amazon Sumerian](https://aws.amazon.com/sumerian/)
+* [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
 
 ## Develop
 
@@ -41,12 +60,24 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 * [Enklu Player](https://github.com/enklu/enklu-samples)
 * [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 
+#### Talks:
+
+* [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
+* [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id==mixedrealityresources-github-ayyonet#top-anchor)
+
 ### WebXR
+
+#### WebXR Libraries
+
+* [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [ThreeJS](https://threejs.org/)
+* [A-frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
+* [AR.js](https://github.com/jeromeetienne/AR.js): AR.js uses artoolkit, and so it is marker based. artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
+[![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
 
 #### WebXR Repositories 
 
 * [WebXR Polyfills](https://github.com/immersive-web/webxr-polyfill)
-* [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 
 #### WebXR Documentation
@@ -63,6 +94,8 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 * [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
+
+
 
 ## Create
 
@@ -88,7 +121,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ### Conferences
 
-* [Augmented Worls Expo](https://www.awexr.com/) - USA, Europe
+* [Augmented World Expo](https://www.awexr.com/) - USA, Europe
 
 ### Meetups
 
