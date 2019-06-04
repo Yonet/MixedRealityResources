@@ -2,15 +2,22 @@
 Collection of Mixed Reality related resources, inspirations. Please file an issue if you are looking for a resources that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
 * [Design](#design)
+  * [Guidelines](#guidelines)
+  * [Blogs](#blogs)
+  * [Talks](#talks)
+  * [Tools](#tools)
 * [Develop](#develop)
   * [Documentation](#documentation)
   * [Repositories](#repositories)
+  * [Talks](#talks)
   * [WebXR](#webxr)
     * [WebXR Libraries](#webxr-libraries)
     * [WebXR Repositories](#webxr-repositories)
     * [WebXR Documentation](#webxr-documentation)
+  * [Tutorials](#tutorials)
 * [Create](#create)
     * [Asset Creation Tools](#asset-creation-tools)
+    * [Asset Creation Libraries](#asset-creation-libraries)
     * [Inspirations](#inspirations)
 * [Attend](#attend)
     * [Conferences](#confereces)
@@ -26,29 +33,31 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 * [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
 
-### Blogs:
+### Blogs
 
 * [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 
-### Talks:
+### Talks
 
 * [Instructional Design on the Immersive Web](https://youtu.be/ZX_8fiW1_Y4?t=220)
 
-### Tools: 
+### Tools
 
 * [Unity3D](https://unity.com/)
 * [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+* [Play Canvas](https://playcanvas.com/)
 * [Amazon Sumerian](https://aws.amazon.com/sumerian/)
 * [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
 
 ## Develop
 
-#### Documentation
+### Documentation
 
 * [Microsoft Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
 
-#### Repositories
+### Repositories
 
 * [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
@@ -60,7 +69,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 * [Enklu Player](https://github.com/enklu/enklu-samples)
 * [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 
-#### Talks:
+### Talks
 
 * [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
 * [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id==mixedrealityresources-github-ayyonet#top-anchor)
@@ -89,12 +98,12 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 * [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
 * [WebVR Rocks](https://webvr.rocks/)
+* [W3C WebXR Device API](https://www.w3.org/TR/webxr/)
 
-#### Tutorials
+### Tutorials
 
 * [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
-
 
 
 ## Create
