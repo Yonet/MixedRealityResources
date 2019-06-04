@@ -69,6 +69,7 @@ Mixed Reality related resources
 ### Asset Creation Tools
 
 * [Magic Voxel](https://ephtracy.github.io/index.html?page=mv_main)
+* [Voxel.js](http://voxeljs.com/#what)
 
 
 ### Asset Libraries
@@ -80,6 +81,8 @@ Mixed Reality related resources
 
 * [Google WebVR Experiments](https://experiments.withgoogle.com/collection/webvr)
 * [Google AR Experiments](https://experiments.withgoogle.com/collection/ar)
+* [Babylon.js Demos](https://www.babylonjs.com/community/?WT.mc_id=mixedrealityresources-github-ayyonet)
+* [ThreeJS Examples](https://threejs.org/)
 
 ## Attend
 
