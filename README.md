@@ -103,6 +103,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 #### WebXR Repositories
 
 - [WebXR Polyfills](https://github.com/immersive-web/webxr-polyfill)
+- [ThreeJS WebVR Examples](https://threejs.org/examples/?q=vr)
 - [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 - [GoogleWebComponents/model-viewer](https://github.com/GoogleWebComponents/model-viewer)
 
