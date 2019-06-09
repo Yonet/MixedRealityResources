@@ -126,11 +126,13 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
 - [WebVR Starter Kit](https://hacks.mozilla.org/2019/02/webvr-starter-kit-mozilla-glitch/)
+- [3D Projection Notes](https://jsantell.com/notes)
 
 ### Talks
 
 - [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
 - [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id==mixedrealityresources-github-ayyonet#top-anchor)
+- [Exploring Augmented Reality on the Web - JSConfEU 2018](https://www.youtube.com/watch?v=bqmT0_w6_qc)
 
 ### Media/Newsletter
 
