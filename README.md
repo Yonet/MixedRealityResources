@@ -140,6 +140,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Voices of VR Podcast](https://voicesofvr.com/)
 - [VRScout Podcast](https://vrscout.com/podcast/)
 - [The AR Show Podcast](https://www.stitcher.com/podcast/the-ar-show/ar-show?refid=stpr)
+- [Veer VR Blog](https://veer.tv/blog/)
 
 ## Create
 
@@ -176,6 +177,8 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 ### Conferences
 
 - [Augmented World Expo](https://www.awexr.com/) - USA, Europe
+- [AR/VR Global Summit](https://www.vrarglobalsummit.com/)
+- [VRX Conference and Expo](https://events.vr-intelligence.com/vrx/)
 
 ### Meetups
 
