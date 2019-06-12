@@ -141,6 +141,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [VRScout Podcast](https://vrscout.com/podcast/)
 - [The AR Show Podcast](https://www.stitcher.com/podcast/the-ar-show/ar-show?refid=stpr)
 - [Veer VR Blog](https://veer.tv/blog/)
+- [Next Reality News](https://next.reality.news/)
 
 ## Create
 
