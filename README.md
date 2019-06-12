@@ -139,6 +139,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Immersive Web Weekly](https://immersivewebweekly.com/)
 - [Voices of VR Podcast](https://voicesofvr.com/)
 - [VRScout Podcast](https://vrscout.com/podcast/)
+- [The AR Show Podcast](https://www.stitcher.com/podcast/the-ar-show/ar-show?refid=stpr)
 
 ## Create
 
