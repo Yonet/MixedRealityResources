@@ -78,15 +78,15 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 - [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
-- [Google-AR](https://github.com/google-ar)
 
 | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/BoulderBalloon.gif"> | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/WeatherCube.gif"> | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/MtFujiZoom.gif"> |
 | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 
-
+- [Google-AR](https://github.com/google-ar)
 - [Mixed Reality Toolkit Demos](https://github.com/microsoft/MixedRealityToolkit-Unity/tree/mrtk_release/Assets/MixedRealityToolkit.Examples/Demos?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Enklu Player](https://github.com/enklu/enklu-samples)
 - [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Unity AR Foundation Examples](https://github.com/Unity-Technologies/arfoundation-samples)
 
 ### WebXR
 
