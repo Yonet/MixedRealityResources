@@ -26,6 +26,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Conferences](#confereces)
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
+- [FAQ](#faq)
 
 ## Design
 
@@ -199,3 +200,13 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [ARKit Apple Developer Forum](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 - [Augmented Reality Reddit](https://www.reddit.com/r/augmentedreality/)
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
+
+
+## FAQ
+
+- [What is Mixed Reality/ Augmented Reality/ Virtual Reality]()
+- [What do I need to learn to start developing for Mixed Reality]()
+- [What are some good use cases for Mixed Reality?]()
+- [Where can I find case studies for Mixed Reality applications?]()
+- [What are security concerns and challenges with Mixed Reality application?]()
+- [How do you consider accessibility, diversity, and inclusiveness into your design?]()
