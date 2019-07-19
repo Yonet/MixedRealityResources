@@ -41,6 +41,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 ### Blogs
 
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
+- [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
 
 ### Talks
 
