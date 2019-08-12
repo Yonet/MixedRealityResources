@@ -37,6 +37,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Mixed Reality Interaction Fundamentals](https://docs.microsoft.com/windows/mixed-reality/interaction-fundamentals?WT.mc_id=mixedrealityresources-github-ayyonet)
 
 - [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
+- [Unity VR Best Practices](https://learn.unity.com/tutorial/vr-best-practice#)
 
 ### Blogs
 
