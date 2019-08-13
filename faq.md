@@ -12,6 +12,7 @@
 ## Where can I find case studies for Mixed Reality applications?
 
 * [Mozilla Mixed Reality Case Studies](https://blog.mozvr.com/tag/case-studies/)
+* [Google ARCore Case Studies](https://developers.google.com/ar/discover/use-cases)
 * [AfterNow's process - envisioning, prototyping, building](https://docs.microsoft.com/windows/mixed-reality/case-study-afternows-process-envisioning,-prototyping,-building?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [Chacmool: Augmented reality in Chrome Canary](https://developers.google.com/web/updates/2018/06/webar-chacmool)
 * [Representing humans in mixed reality](https://docs.microsoft.com/windows/mixed-reality/case-study-representing-humans-in-mixed-reality?WT.mc_id=mixedrealityresources-github-ayyonet)
