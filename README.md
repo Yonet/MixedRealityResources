@@ -27,7 +27,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
 - [Read](#read)
-  - [Blogs](#blogs)
+  - [Blogs](#blogs-1)
   - [Books](#books)
 - [Join](#join)
 - [FAQ](#faq)
@@ -45,7 +45,8 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ### Blogs
 
-- [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/)
+- [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/) 
+| <img src="https://blog.mozvr.com/content/images/2018/03/mozilla-store-xr-2.gif"> |
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
 
@@ -202,7 +203,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 ### Blogs
 
 - [Custom elements for the immersive web](https://blog.mozvr.com/custom-elements-for-the-immersive-web/)
-<img src="https://blog.mozvr.com/content/images/2019/08/img360-1.png"> 
+| <img src="https://blog.mozvr.com/content/images/2019/08/img360-1.png"> |
 - [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/)
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
