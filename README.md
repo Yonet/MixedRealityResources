@@ -99,6 +99,8 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ### WebXR
 
+Check out the current browser support for WebXR at [CanIUse.com](https://caniuse.com/#search=webxr).
+
 #### WebXR Libraries
 
 - [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
