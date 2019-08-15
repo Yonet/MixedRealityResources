@@ -26,6 +26,10 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Conferences](#confereces)
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
+- [Read](#read)
+  - [Blogs](#blogs)
+  - [Books](#books)
+- [Join](#join)
 - [FAQ](#faq)
 
 ## Design
@@ -41,6 +45,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ### Blogs
 
+- [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/)
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
 
@@ -191,6 +196,20 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [HoloLens and Mixed Reality Meetup](https://www.meetup.com/hololens-mr/members/?sort=join_date&desc=true)
 - [SF Augmented Reality Meetups](https://www.meetup.com/topics/augmented-reality/us/ca/san_francisco/)
 - [SF Mixed Reality Meetups](https://www.meetup.com/topics/augmented-mixed-reality/us/ca/san_francisco/)
+
+## Read 
+
+### Blogs
+
+- [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/)
+- [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
+- [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
+
+### Books
+
+- [Learning Virtual Reality - Tony Parisi](https://www.oreilly.com/library/view/learning-virtual-reality/9781491922828/)
+- [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages Tony Parisi](https://books.google.com/books/about/Programming_3D_Applications_with_HTML5_a.html?id=UvrYAgAAQBAJ)
+- [Envisioning Holograms: Design Breakthrough Experiences for Mixed Reality](https://smile.amazon.com/dp/1484227484/ref=cm_sw_em_r_mt_dp_U_vDDvDbGAW9BPZ)
 
 ## Join
 
