@@ -27,6 +27,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
 - [Read](#read)
+  - [Newsletters](#newsletters)
   - [Blogs](#blogs-1)
   - [Books](#books)
 - [Join](#join)
@@ -46,7 +47,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 ### Blogs
 
 - [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/) 
-| <img src="https://blog.mozvr.com/content/images/2018/03/mozilla-store-xr-2.gif"> |
+ <img src="https://blog.mozvr.com/content/images/2018/03/mozilla-store-xr-2.gif"> 
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
 
