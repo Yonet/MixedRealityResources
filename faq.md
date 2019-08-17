@@ -37,6 +37,10 @@
 
 #### Medical
 
+- [Incubator for Medical Mixed and Extended Reality at Stanford](http://med.stanford.edu/immers/relatedlabs.html)
+- [Take a Ride on a Root Canal: The VR Tooth Tour Story](https://sketchfab.com/blogs/community/take-a-ride-on-a-root-canal-the-vr-tooth-tour-story/?utm_source=social&utm_medium=twitter&utm_campaign=blog-post&utm_content=Take%20a%20Ride%20on%20a%20Root%20Canal:%20The%20VR%20Tooth%20Tour%20Story)
+
+
 #### Educational
 
 #### Museums and Libraries
