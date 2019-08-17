@@ -196,11 +196,20 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 
 #### San Francisco
 
+- [Microsoft Mixed Reality Events Calendar](http://bit.ly/SFMixedRealityEvents)
+- [WebXR Meetup](https://www.meetup.com/Web-VR/)
 - [HoloLens and Mixed Reality Meetup](https://www.meetup.com/hololens-mr/members/?sort=join_date&desc=true)
 - [SF Augmented Reality Meetups](https://www.meetup.com/topics/augmented-reality/us/ca/san_francisco/)
 - [SF Mixed Reality Meetups](https://www.meetup.com/topics/augmented-mixed-reality/us/ca/san_francisco/)
 
 ## Read 
+
+### Newsletters
+
+- [Mozilla WebVR Newsletter](https://mail.mozilla.org/listinfo/web-vr-discuss)
+- [Augmented World Expo Newsletter](https://augmentedworldexpo.us4.list-manage.com/subscribe?u=d9a1ebb835d4cf32081bc4aca&id=e2fc180d36)
+- [Immersive Web Weekly](https://immersivewebweekly.com/)
+- [AR Insider Weekly](https://visitor.r20.constantcontact.com/manage/optin?v=001cPYbv-_gtYvZ2HEbuKDsvV8PPVDHsr-vtIA-1S2FPCmdC4B-BxvXbEnk81JYICJuolrDwlBMorj76oIBVPTqihVonMPLKKhyajQijZHRPo7xjwj3Dn0fIBA0hna22CzZjkDqtO33CpV9y0oER_m8Og%3D%3D)
 
 ### Blogs
 
