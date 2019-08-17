@@ -4,12 +4,12 @@
 
 ## What do I need to learn to start developing for Mixed Reality
 
-## What are some good use cases for Mixed Reality?
+## What are some use cases and What are some use cases and case studies for Mixed Reality applications?
 
 * [6 Use Cases for Enterprise Mixed Reality](https://www.kaleidoinsights.com/6-use-cases-for-enterprise-mixed-reality/)
 * [5 Use Cases Of Augmented Reality That Boosted Businesses’ Sales](https://medium.com/swlh/5-use-cases-of-augmented-reality-that-boosted-businesses-sales-2114ac35bf5a)
 
-## Where can I find case studies for Mixed Reality applications?
+### Case Studies
 
 * [Mozilla Mixed Reality Case Studies](https://blog.mozvr.com/tag/case-studies/)
 * [Google ARCore Case Studies](https://developers.google.com/ar/discover/use-cases)
@@ -35,9 +35,17 @@
 * [Augmented Reality Case Studies & Examples - INDE](https://www.indestry.com/augmented-reality-case-studies)
 * [Immersive Performance Training - STRIVR](https://www.strivr.com/case-studies/)
 
+#### Medical
 
+#### Educational
+
+#### Museums and Libraries
+
+#### Entertainment
 
 ## What are security concerns and challenges with Mixed Reality application?
 
 
 ## How do you consider accessibility, diversity, and inclusiveness into your design?
+
+- [Augmented Reality and Accessibility](https://gettecla.com/blogs/news/augmented-reality-and-accessibility)
