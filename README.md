@@ -230,9 +230,12 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 
 ## FAQ
 
+- [What are some use cases and case studies for Mixed Reality applications?](./faq.md#where-can-i-find-case-studies-for-mixed-reality-applications)
+  - [Medical](./faq.md#medical)
+  - [Educational](./faq.md#educational)
+  - [Museums and Libraries](./faq.md#museums-and-libraries)
+  - [Entertainment](./faq.md#entertainment)
 - [What is Mixed Reality/ Augmented Reality/ Virtual Reality]()
 - [What do I need to learn to start developing for Mixed Reality]()
-- [What are some good use cases for Mixed Reality?]()
-- [Where can I find case studies for Mixed Reality applications?]()
 - [What are security concerns and challenges with Mixed Reality application?]()
 - [How do you consider accessibility, diversity, and inclusiveness into your design?]()
