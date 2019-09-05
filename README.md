@@ -71,7 +71,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 ### Developer Tools
 
 - [Unity3D](https://unity.com/)
-- [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+- [Unreal Engine](http://bit.ly/HoloLensUnrealDev)
 - [Apple RealityKit](https://developer.apple.com/documentation/realitykit)
 - [WebVR API Emulation - Chrome Extention](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil?hl=en)
 - [VR Viewer Chrome Extention](https://chrome.google.com/webstore/detail/vr-viewer/fagmjpknkfadjnehfkgkkbjnjpnnpcic?hl=en)
