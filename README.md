@@ -53,6 +53,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ### Talks
 
+- [Monika Bielskyte @ Microsoft Design Day](https://t.co/2KrhpfG42C?amp=1)
 - [Instructional Design on the Immersive Web](https://youtu.be/ZX_8fiW1_Y4?t=220)
 
 ### Tools
