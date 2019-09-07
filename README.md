@@ -249,5 +249,6 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [What is Mixed Reality/ Augmented Reality/ Virtual Reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [What is a Hologram?](https://docs.microsoft.com/windows/mixed-reality/hologram?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [What do I need to learn to start developing for Mixed Reality?](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [What is Spatial Sound?](https://docs.microsoft.com/windows/mixed-reality/spatial-sound?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [What are security concerns and challenges with Mixed Reality application?]()
 - [How do you consider accessibility, diversity, and inclusiveness into your design?]()
