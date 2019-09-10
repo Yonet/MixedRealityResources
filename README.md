@@ -113,6 +113,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
   [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
 - [Inverse kinematics for three.js](https://github.com/jsantell/THREE.IK)
 - [Three.ar.js](https://github.com/google-ar/three.ar.js)
+- [Exokit Native Engine](https://github.com/exokitxr/exokit)
 
 #### WebXR Repositories
 
