@@ -100,6 +100,11 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Unity AR Foundation Examples](https://github.com/Unity-Technologies/arfoundation-samples)
 
+### SDKs
+
+- [Scene Understanding SDK for Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/scene-understanding-sdk?WT.mc_id=docs-github-ayyonet)
+- [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
+
 ### WebXR
 
 Check out the current browser support for WebXR at [CanIUse.com](https://caniuse.com/#search=webxr).
@@ -241,7 +246,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
 
 
-## FAQ
+## Concepts and FAQ
 
 - [What are some use cases and case studies for Mixed Reality applications?](./faq.md#where-can-i-find-case-studies-for-mixed-reality-applications)
   - [Medical](./faq.md#medical)
@@ -256,3 +261,5 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [What are security concerns and challenges with Mixed Reality application?]()
 - [How do you consider accessibility, diversity, and inclusiveness into your design?]()
 - [What is a Cloud Anchor?](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=docs-github-ayyonet)
+- [What is Scene Understanding?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=docs-github-ayyonet)
+- [What would you use Scene Understanding for?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=docs-github-ayyonet#common-usage-scenarios)
