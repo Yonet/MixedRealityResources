@@ -126,6 +126,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [ThreeJS WebVR Examples](https://threejs.org/examples/?q=vr)
 - [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 - [GoogleWebComponents/model-viewer](https://github.com/GoogleWebComponents/model-viewer)
+- [Chrome Platform Status Samples](https://www.chromestatus.com/samples#webxr)
 
 #### WebXR Documentation
 
