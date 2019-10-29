@@ -255,6 +255,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
   - [Museums and Libraries](./faq.md#museums-and-libraries)
   - [Entertainment](./faq.md#entertainment)
 - [What is Mixed Reality/ Augmented Reality/ Virtual Reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [How do you decide if VR or AR is the right choice for your application?](https://twitter.com/WindowsDocs/status/1182311208529121280)
 - [What is an Anchor](https://github.com/immersive-web/anchors/blob/master/explainer.md)
 - [What is a Hologram?](https://docs.microsoft.com/windows/mixed-reality/hologram?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [What do I need to learn to start developing for Mixed Reality?](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=mixedrealityresources-github-ayyonet)
