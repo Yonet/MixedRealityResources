@@ -234,6 +234,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [Learning Virtual Reality - Tony Parisi](https://www.oreilly.com/library/view/learning-virtual-reality/9781491922828/)
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages Tony Parisi](https://books.google.com/books/about/Programming_3D_Applications_with_HTML5_a.html?id=UvrYAgAAQBAJ)
 - [Envisioning Holograms: Design Breakthrough Experiences for Mixed Reality](https://smile.amazon.com/dp/1484227484/ref=cm_sw_em_r_mt_dp_U_vDDvDbGAW9BPZ)
+- [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/)
 
 ## Join
 
