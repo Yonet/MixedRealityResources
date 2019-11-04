@@ -246,7 +246,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [ARKit Apple Developer Forum](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 - [Augmented Reality Reddit](https://www.reddit.com/r/augmentedreality/)
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
-
+- [Mozilla Hubs](https://hubs.mozilla.com/)
 
 ## Concepts and FAQ
 
