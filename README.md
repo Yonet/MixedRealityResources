@@ -15,6 +15,10 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
     - [WebXR Libraries](#webxr-libraries)
     - [WebXR Repositories](#webxr-repositories)
     - [WebXR Documentation](#webxr-documentation)
+  - [Mobile Native]
+    - [Libraries](#libraries)
+    - [Repositories](#repositories)
+    - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Media/Newsletter](#media/newsletter)
@@ -141,6 +145,23 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [A-Frame Docs](https://aframe.io/docs/0.9.0/introduction/)
 - [Augmented Reality with Model-Viewer Web Component](https://developers.google.com/web/updates/2019/05/model-viewer-ar)
 - [PSA: State of WebXR](https://docs.google.com/document/d/1R8Bz0_vK9YmY5-ZhsbLtZ9-DDJpTOgNeibFD4SdUnbw/edit#heading=h.yrc5sgqnnsk3)
+
+### Mobile Native
+
+#### Libraries
+
+- [Unity3D](https://unity.com/unity/features/ar)
+- [Unreal Engine](https://www.unrealengine.com/en-US/vr)
+- [NativeScript AR](https://github.com/EddyVerbruggen/nativescript-ar)
+- [Viro React](https://viromedia.com/viroreact/)
+  ![Viro React](images/viroreact.gif)
+- [Exokit](https://exokit.org/)
+- [Babylon Native](https://github.com/BabylonJS/BabylonNative)
+- [Amazon Sumerian](https://aws.amazon.com/sumerian/)
+
+#### Repositories
+
+#### Documentation
 
 ### Tutorials
 
