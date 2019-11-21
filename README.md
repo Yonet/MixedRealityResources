@@ -35,7 +35,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Blogs](#blogs-1)
   - [Books](#books)
 - [Join](#join)
-- [FAQ](#faq)
+- [Concepts and FAQ](#concepts-and-faq)
 
 ## Design
 
