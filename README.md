@@ -12,6 +12,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Documentation](#documentation)
   - [Repositories](#repositories)
   - [WebXR](#webxr)
+    - [WebXR Examples](#webxr-examples)
     - [WebXR Libraries](#webxr-libraries)
     - [WebXR Repositories](#webxr-repositories)
     - [WebXR Documentation](#webxr-documentation)
