@@ -113,6 +113,15 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 Check out the current browser support for WebXR at [CanIUse.com](https://caniuse.com/#search=webxr).
 
+#### WebXR Examples
+
+- [Immersive Web WebXR Samples](https://immersive-web.github.io/webxr-samples/)
+- [Servo Firefox Examples](https://servo.org/hl-home/)
+- [WebXR AR plane detection and Anchors](https://storage.googleapis.com/chromium-webxr-test/r695783/proposals/phone-ar-plane-detection-anchors.html)
+Note: WebXR Anchors experimental flag needs to be enabled to see this example. 
+ ![WebXR Flags](images/webXRAnchors.png)
+
+
 #### WebXR Libraries
 
 - [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
