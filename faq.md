@@ -11,7 +11,7 @@
 
 ### Case Studies
 
-* [Mozilla Mixed Reality Case Studies](https://blog.mozvr.com/tag/case-studies/)
+* [Mozilla Mixed Reality Case Studies](https://blog.mozvr.com/tag/case-studies/) - Available for free download at Unreal Marketplace.
 * [Google ARCore Case Studies](https://developers.google.com/ar/discover/use-cases)
 * [AfterNow's process - envisioning, prototyping, building](https://docs.microsoft.com/windows/mixed-reality/case-study-afternows-process-envisioning,-prototyping,-building?WT.mc_id=mixedrealityresources-github-ayyonet)
 * [Chacmool: Augmented reality in Chrome Canary](https://developers.google.com/web/updates/2018/06/webar-chacmool)
@@ -45,6 +45,7 @@
 
 #### Museums and Libraries
 
+* [Apollo 11 Mission Unreal Engine Experience](https://youtu.be/C7QbR2d8RNI)
 * [Dutch National Museum HoloLens Experience](https://www.youtube.com/watch?v=L9dcBfaJ2GY&feature=youtu.be)
 * [Paris Museum HoloLens Experience](https://hololens.reality.news/news/microsofts-hololens-morphs-paris-museum-model-mont-saint-michel-into-masterpiece-ar-0190095/)
 * [OneDome - Unreal Garden HoloLens Exhibition](https://youtu.be/ewwm7DgDip0)
