@@ -8,18 +8,18 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Talks](#talks)
   - [Tools](#tools)
 - [Develop](#develop)
-  - [Developer Tools](#developer-tools)
   - [Documentation](#documentation)
+  - [Developer Tools](#developer-tools)
   - [Repositories](#repositories)
   - [WebXR](#webxr)
+    - [WebXR Documentation](#webxr-documentation)
     - [WebXR Examples](#webxr-examples)
     - [WebXR Libraries](#webxr-libraries)
     - [WebXR Repositories](#webxr-repositories)
-    - [WebXR Documentation](#webxr-documentation)
   - [Mobile Native](#mobile-native)
+    - [Documentation](#documentation)
     - [Libraries](#libraries)
     - [Repositories](#repositories)
-    - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Media/Newsletter](#media/newsletter)
@@ -75,14 +75,6 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 ## Develop
 
-### Developer Tools
-
-- [Unity3D](https://unity.com/)
-- [Unreal Engine](http://bit.ly/HoloLensUnrealDev)
-- [Apple RealityKit](https://developer.apple.com/documentation/realitykit)
-- [WebVR API Emulation - Chrome Extention](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil?hl=en)
-- [VR Viewer Chrome Extention](https://chrome.google.com/webstore/detail/vr-viewer/fagmjpknkfadjnehfkgkkbjnjpnnpcic?hl=en)
-
 ### Documentation
 
 - [Microsoft Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=mixedrealityresources-github-ayyonet)
@@ -90,6 +82,15 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Google Developers WebXR](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
 - [ARCore - Android](https://developers.google.com/ar/)
 - [ARKit - IOS](https://developer.apple.com/augmented-reality/)
+
+### Developer Tools
+
+- [Unity3D](https://unity.com/)
+- [Unreal Engine](http://bit.ly/HoloLensUnrealDev)
+- [Apple RealityKit](https://developer.apple.com/documentation/realitykit)
+- [WebVR API Emulation - Chrome Extention](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil?hl=en)
+- [VR Viewer Chrome Extention](https://chrome.google.com/webstore/detail/vr-viewer/fagmjpknkfadjnehfkgkkbjnjpnnpcic?hl=en)
+- [ThreeJS Dev Tools](https://github.com/threejs/three-devtools)
 
 ### Repositories
 
@@ -114,14 +115,29 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 Check out the current browser support for WebXR at [CanIUse.com](https://caniuse.com/#search=webxr).
 
+#### WebXR Documentation
+
+- [Immersive/web.dev](https://immersiveweb.dev/)
+- [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
+- [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
+- [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
+- [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
+- [WebVR Rocks](https://webvr.rocks/)
+- [W3C WebXR Device API](https://www.w3.org/TR/webxr/)
+- [A-Frame Docs](https://aframe.io/docs/0.9.0/introduction/)
+- [Augmented Reality with Model-Viewer Web Component](https://developers.google.com/web/updates/2019/05/model-viewer-ar)
+- [PSA: State of WebXR](https://docs.google.com/document/d/1R8Bz0_vK9YmY5-ZhsbLtZ9-DDJpTOgNeibFD4SdUnbw/edit#heading=h.yrc5sgqnnsk3)
+
 #### WebXR Examples
 
 - [Immersive Web WebXR Samples](https://immersive-web.github.io/webxr-samples/)
+- [ImmersiveWeb.dev Demos](https://immersiveweb.dev/#tryoutsomedemos)
 - [Servo Firefox Examples](https://servo.org/hl-home/)
 - [WebXR AR plane detection and Anchors](https://storage.googleapis.com/chromium-webxr-test/r695783/proposals/phone-ar-plane-detection-anchors.html)
 Note: WebXR Anchors experimental flag needs to be enabled to see this example. 
  ![WebXR Flags](images/webXRAnchors.png)
-
 
 #### WebXR Libraries
 
@@ -142,22 +158,11 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 - [GoogleWebComponents/model-viewer](https://github.com/GoogleWebComponents/model-viewer)
 - [Chrome Platform Status Samples](https://www.chromestatus.com/samples#webxr)
-
-#### WebXR Documentation
-
-- [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=mixedrealityresources-github-ayyonet)
-- [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
-- [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
-- [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
-- [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=mixedrealityresources-github-ayyonet)
-- [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
-- [WebVR Rocks](https://webvr.rocks/)
-- [W3C WebXR Device API](https://www.w3.org/TR/webxr/)
-- [A-Frame Docs](https://aframe.io/docs/0.9.0/introduction/)
-- [Augmented Reality with Model-Viewer Web Component](https://developers.google.com/web/updates/2019/05/model-viewer-ar)
-- [PSA: State of WebXR](https://docs.google.com/document/d/1R8Bz0_vK9YmY5-ZhsbLtZ9-DDJpTOgNeibFD4SdUnbw/edit#heading=h.yrc5sgqnnsk3)
+- [ThreeJS Dev Tools](https://github.com/threejs/three-devtools)
 
 ### Mobile Native
+
+#### Documentation
 
 #### Libraries
 
@@ -172,8 +177,6 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
 
 #### Repositories
-
-#### Documentation
 
 ### Tutorials
 
