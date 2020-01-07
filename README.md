@@ -28,7 +28,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Asset Creation Libraries](#asset-creation-libraries)
   - [Inspirations](#inspirations)
 - [Attend](#attend)
-  - [Conferences](#confereces)
+  - [Conferences](#conferences)
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
 - [Read](#read)
@@ -242,6 +242,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Augmented World Expo](https://www.awexr.com/) - USA, Europe
 - [AR/VR Global Summit](https://www.vrarglobalsummit.com/)
 - [VRX Conference and Expo](https://events.vr-intelligence.com/vrx/)
+- [University of Washington XR Day](https://www.hcde.washington.edu/xr-day)
 
 ### Meetups
 
