@@ -93,6 +93,8 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [ThreeJS Dev Tools](https://github.com/threejs/three-devtools)
 - [WebXR API Emulator Chrome Extention](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje)
  ![WebXR API Emulator Chrome Extention](images/webxrEmulator.gif)
+ - [StereoKit](https://playdeck.net/blog/introducing-stereokit?WT.mc_id=mixedrealityresources-github-ayyonet)
+ ![StereoKit Hello World!](images/stereoKit.gif)
 
 ### Repositories
 
