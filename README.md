@@ -31,6 +31,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Conferences](#conferences)
   - [Meetups](#meetups)
     - [San Francisco](#san-francisco)
+  - [Hackathons](#hackathons)
 - [Read](#read)
   - [Newsletters](#newsletters)
   - [Blogs](#blogs-1)
@@ -255,6 +256,10 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [HoloLens and Mixed Reality Meetup](https://www.meetup.com/hololens-mr/members/?sort=join_date&desc=true)
 - [SF Augmented Reality Meetups](https://www.meetup.com/topics/augmented-reality/us/ca/san_francisco/)
 - [SF Mixed Reality Meetups](https://www.meetup.com/topics/augmented-mixed-reality/us/ca/san_francisco/)
+
+### Hackathons
+
+ - [MIT Reality Hack](https://www.mitrealityhack.com/)
 
 ## Read 
 
