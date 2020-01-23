@@ -35,6 +35,13 @@
 * [Augmented Reality Case Studies & Examples - INDE](https://www.indestry.com/augmented-reality-case-studies)
 * [Immersive Performance Training - STRIVR](https://www.strivr.com/case-studies/)
 
+#### Enterprise, Manufacturing and Construction
+
+- [NASA HoloLens use case](https://www.technologyreview.com/s/612247/nasa-is-using-hololens-ar-headsets-to-build-its-new-spacecraft-faster/)
+- [Trimble](https://mixedreality.trimble.com/)
+- [King County HoloLens Employee Education](https://www.geekwire.com/2018/king-county-wins-award-using-microsoft-hololens-train-staff-wastewater-treatment-plant/)
+- [HoloLens Partners highlights](https://www.youtube.com/playlist?list=PLZCHH_4VqpRgIhFeDycyjURPDoocGHm8O)
+
 #### Medical
 
 - [Incubator for Medical Mixed and Extended Reality at Stanford](http://med.stanford.edu/immers/relatedlabs.html)
@@ -42,6 +49,8 @@
 
 
 #### Educational
+
+- [King County HoloLens Employee Education](https://www.geekwire.com/2018/king-county-wins-award-using-microsoft-hololens-train-staff-wastewater-treatment-plant/)
 
 #### Museums and Libraries
 
