@@ -164,6 +164,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [GoogleWebComponents/model-viewer](https://github.com/GoogleWebComponents/model-viewer)
 - [Chrome Platform Status Samples](https://www.chromestatus.com/samples#webxr)
 - [ThreeJS Dev Tools](https://github.com/threejs/three-devtools)
+- [Poly Historical Models](https://poly.google.com/user/4U4FhbhDQdR)
 
 ### Mobile Native
 
