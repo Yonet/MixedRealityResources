@@ -151,6 +151,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [A-frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
 - [AR.js](https://github.com/jeromeetienne/AR.js): AR.js uses artoolkit, and so it is marker based. artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
   [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
+- [ARSuite](https://arsuite.com/technology)
 - [Inverse kinematics for three.js](https://github.com/jsantell/THREE.IK)
 - [Three.ar.js](https://github.com/google-ar/three.ar.js)
 - [Exokit Native Engine](https://github.com/exokitxr/exokit)
