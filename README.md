@@ -4,6 +4,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 
 - [Design](#design)
   - [Guidelines](#guidelines)
+  - [Assets](#assets)
   - [Blogs](#blogs)
   - [Talks](#talks)
   - [Tools](#tools)
@@ -50,6 +51,54 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
 - [Unity VR Best Practices](https://learn.unity.com/tutorial/vr-best-practice#)
 
+### Assets
+
+- [Smithsonian Museum 3D Scan Collection](https://3d.si.edu/)
+- [MorphoSource by Duke University](https://www.morphosource.org/)
+- [GB3D Type Fossils](http://www.3d-fossils.ac.uk/search.cfm?pageNo=1&sortCol=REG_NUMBER&sortDir=ASC&taxonGroup=&genus=&species=&typeStatus=any&geoAge=any&rockUnit=&locality=&country=any&institution=any&regNo=&scans=on&advSubBtn=Search)
+- [Nasa 3D Resources](https://nasa3d.arc.nasa.gov/)
+- [Protein Data Bank](http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid=E3107058)
+- [Poly](https://poly.google.com/)
+- [Unity Asset Store](https://assetstore.unity.com/)
+- [Open Game Art](https://opengameart.org/)
+- [Sketchfab](https://sketchfab.com/tags/library)
+- [TurboSquid](https://www.turbosquid.com/Search/3D-Models)
+- [Design Connected](https://www.designconnected.com/catalog/3D-Models/all)
+- [Autodesk Gallery](https://gallery.autodesk.com/)
+- [GrabCad](https://grabcad.com/library)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
+- [3D Content Central](https://www.3dcontentcentral.com/)
+- [Trace Parts](https://www.traceparts.com/)
+- [Thingsverse](https://www.thingiverse.com/)
+- [Clara.io](https://clara.io/library)
+- [CG Trader](https://www.cgtrader.com/3d-models/library)
+- [Free3D](https://free3d.com/3d-models/library)
+- [3D Export](https://3dexport.com/free-3d-models)
+- [Bibliocad](https://www.bibliocad.com/en/)
+- [Thinkercad](https://www.tinkercad.com/things)
+- [3Dmdb](https://3dmdb.com/)
+- [3D Model Free](http://www.3dmodelfree.com/)
+- [Flying Architecture](https://flyingarchitecture.com/)
+- [RenderPeople](https://renderpeople.com/3d-posed-people/)
+- [3D Headscans](https://3dheadscans.com/)
+- [VizPeople](https://www.viz-people.com/product-category/3d-models/?sidebar=no-sidebar)
+- [Evermotion](https://evermotion.org/downloads)
+- [Archive 3D](https://archive3d.net/)
+- [CadNav](http://www.cadnav.com/3d-models/)
+- [Blend Swap](https://www.blendswap.com/)
+- [STL Finder](https://www.stlfinder.com/)
+- [Orchard Crowdsource Design](https://3dorchard.com/)
+- [Human Alloy](https://humanalloy.com/shop/)
+- [PinShape](https://pinshape.com/)
+- [3Dsky](https://3dsky.org/)
+- [ShareCG](https://www.sharecg.com/b/5/3DModels)
+- [PixelLab](https://www.thepixellab.net/freebies)
+- [3D Scan Store](https://www.3dscanstore.com/)
+- [Syncronia](https://www.syncronia.com/en)
+- [Dimensiva](https://dimensiva.com/)
+- [3Delicious](https://3delicious.net/)
+- [Bitgem 3D](https://shop.bitgem3d.com/collections/on-sale)
+
 ### Blogs
 
 - [Mozilla Blog - Progressive WebXR Store](https://blog.mozvr.com/progressive-webxr-ar-store/) 
@@ -57,6 +106,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
  
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
+- [All3DP](https://all3dp.com/)
 
 ### Talks
 
