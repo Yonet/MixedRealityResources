@@ -1,7 +1,8 @@
 # MixedRealityResources
 
-Collection of Mixed Reality related resources, inspirations. Please file an issue if you are looking for a resources that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create.
   ![Mixed Reality Resources](images/MRresources.png)
+
+Collection of Mixed Reality related resources, inspirations. Please file an issue if you are looking for a resources that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create.
 
 - [Design](#design)
   - [Guidelines](#guidelines)
