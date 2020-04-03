@@ -345,6 +345,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 ### Online Communities
 
+- [Immersive Web Community Group](https://www.w3.org/community/immersive-web/)
 - [Open AR Cloud](https://www.openarcloud.org/)
 - [HoloLens Developer Slack Channel](https://holodevelopers.slack.com)
 - [WebVR Slack Channel](https://webvr-slack.herokuapp.com/)
