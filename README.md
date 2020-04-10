@@ -125,6 +125,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
 - [Apple Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer)
+- [Voxel Plugin for Unreal](https://voxelplugin.com/)
 
 ## Develop
 
