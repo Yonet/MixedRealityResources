@@ -210,6 +210,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Three.ar.js](https://github.com/google-ar/three.ar.js)
 - [Exokit Native Engine](https://github.com/exokitxr/exokit)
 - [Viro](https://viromedia.com/)
+- [XR Chat](https://github.com/xrchat)
 
 #### WebXR Repositories
 
