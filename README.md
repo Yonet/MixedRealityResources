@@ -245,6 +245,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 ### Tutorials
 
+- [Unity Mixed Reality Lessons](aka.ms/MixedRealityCurriculum)
 - [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Azure Spatial Anchors](https://t.co/YuVZeZmhSN?amp=1)
 - [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
