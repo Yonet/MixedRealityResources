@@ -39,6 +39,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Newsletters](#newsletters)
   - [Blogs](#blogs-1)
   - [Books](#books)
+- [Watch](watch)
 - [Join](#join)
 - [Concepts and FAQ](#concepts-and-faq)
 
@@ -349,6 +350,15 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages Tony Parisi](https://books.google.com/books/about/Programming_3D_Applications_with_HTML5_a.html?id=UvrYAgAAQBAJ)
 - [Envisioning Holograms: Design Breakthrough Experiences for Mixed Reality](https://smile.amazon.com/dp/1484227484/ref=cm_sw_em_r_mt_dp_U_vDDvDbGAW9BPZ)
 - [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/)
+
+## Watch
+
+- [GDC Vault](https://www.gdcvault.com/)
+- [WebXR Youtube Channel](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ?view_as=subscriber)
+- [Microsoft HoloLens Youtube](https://www.youtube.com/channel/UCT2rZIAL-zNqeK1OmLLUa6g)
+- [Google ARCore Youtube](https://www.youtube.com/channel/UCqC91zLfMrEyb69vdDfYV8Q)
+- [Made with ARKit](https://www.youtube.com/channel/UCW4PVyHZJnfzHZjws9xDQtw)
+- [Apple AR/VR Sessions](https://developer.apple.com/videos/graphics-and-games/ar-vr)
 
 ## Join
 
