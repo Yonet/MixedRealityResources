@@ -28,7 +28,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Media/Newsletter](#media/newsletter)
 - [Create](#create)
   - [Asset Creation Tools](#asset-creation-tools)
-  - [Asset Creation Libraries](#asset-creation-libraries)
+  - [Asset Creation Libraries](#asset-libraries)
   - [Inspirations](#inspirations)
 - [Attend](#attend)
   - [Conferences](#conferences)
