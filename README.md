@@ -101,6 +101,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Dimensiva](https://dimensiva.com/)
 - [3Delicious](https://3delicious.net/)
 - [Bitgem 3D](https://shop.bitgem3d.com/collections/on-sale)
+- [Play Canvas curated assets](https://github.com/playcanvas/awesome-playcanvas)
 
 ### Blogs
 
