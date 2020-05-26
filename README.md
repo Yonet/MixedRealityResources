@@ -154,6 +154,13 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
  - [StereoKit](https://playdeck.net/blog/introducing-stereokit?WT.mc_id=mixedrealityresources-github-ayyonet)
  
  ![StereoKit Hello World!](images/stereoKit.gif)
+ 
+ - [Mixed Reality World Locking Tools for Unity3D](https://microsoft.github.io/MixedReality-WorldLockingTools-Unity/README.html)
+ 
+ <figure class="video_container">
+ <iframe src="https://channel9.msdn.com/Shows/Docs-Mixed-Reality/World-Locking-Tools-for-Unity/player" width="960" height="540" allowfullscreen="allowfullscreen" frameBorder="0" title="World Locking Tools for Unity - Microsoft Channel 9 Video"> </iframe>
+</figure>
+
 
 ### Repositories
 
