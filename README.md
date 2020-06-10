@@ -39,7 +39,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
   - [Newsletters](#newsletters)
   - [Blogs](#blogs-1)
   - [Books](#books)
-- [Watch](watch)
+- [Watch](#watch)
 - [Join](#join)
 - [Concepts and FAQ](#concepts-and-faq)
 
@@ -111,6 +111,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Human factor in virtual reality data visualization](https://medium.com/inborn-experience/vr-dataviz-41ef0dc879c)
 - [Getting Hands-On with Responsive AR](https://www.torch.app/blog/getting-hands-on-with-responsive-ar)
 - [All3DP](https://all3dp.com/)
+- [How to Design User Interfaces for Oculus Quest Hand Tracking Applications](https://circuitstream.com/blog/oculus-quest-hand-tracking/)
 
 ### Talks
 
