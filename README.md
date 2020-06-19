@@ -361,6 +361,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 - [GDC Vault](https://www.gdcvault.com/)
 - [WebXR Youtube Channel](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ?view_as=subscriber)
+- [XR Developer](https://www.youtube.com/channel/UC8ohQvrBXGvEvP_9X98r4bQ)
 - [Microsoft HoloLens Youtube](https://www.youtube.com/channel/UCT2rZIAL-zNqeK1OmLLUa6g)
 - [Google ARCore Youtube](https://www.youtube.com/channel/UCqC91zLfMrEyb69vdDfYV8Q)
 - [Made with ARKit](https://www.youtube.com/channel/UCW4PVyHZJnfzHZjws9xDQtw)
