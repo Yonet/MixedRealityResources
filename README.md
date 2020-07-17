@@ -381,6 +381,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
 - [Mozilla Hubs](https://hubs.mozilla.com/)
 - [Catchar.io](https://catchar.io/)
+- [FrameVR Virtual Classroom and Meetings](https://framevr.io/)
 
 ## Concepts and FAQ
 
