@@ -130,6 +130,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Apple Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer)
 - [Voxel Plugin for Unreal](https://voxelplugin.com/)
 - [PotassiumES: A lovely wider web app framework](https://potassiumes.org/)
+- [Quill VR Animation Tool for Oculus Rift](https://quill.fb.com/)
 
 ## Develop
 
