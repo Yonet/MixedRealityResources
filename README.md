@@ -215,6 +215,10 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 #### WebXR Libraries
 
+- [Unity WebXR Exporter](https://github.com/MozillaReality/unity-webxr-export)
+
+[![Preview of Unity WebXR-exported project in the browser](https://raw.githubusercontent.com/mozillareality/unity-webxr-export/master/img/webxr-small.gif)](https://mozillareality.github.io/unity-webxr-export/)
+
 - [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [ThreeJS](https://threejs.org/)
 - [A-frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
