@@ -231,6 +231,9 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Viro](https://viromedia.com/)
 - [XR Chat](https://github.com/xrchat)
 - [ARnft](https://github.com/kalwalt/ARnft)
+- [Handy.js](https://github.com/stewdio/handy.js)
+
+ ![Handy.js](https://github.com/stewdio/handy.js/blob/master/media/vr-hands.gif)
 
 #### WebXR Repositories
 
