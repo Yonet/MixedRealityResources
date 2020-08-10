@@ -66,6 +66,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Open Game Art](https://opengameart.org/)
 - [Sketchfab](https://sketchfab.com/tags/library)
 - [TurboSquid](https://www.turbosquid.com/Search/3D-Models)
+- [Hum3D](https://hum3d.com/)
 - [Design Connected](https://www.designconnected.com/catalog/3D-Models/all)
 - [Autodesk Gallery](https://gallery.autodesk.com/)
 - [GrabCad](https://grabcad.com/library)
