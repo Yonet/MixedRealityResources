@@ -62,6 +62,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Nasa 3D Resources](https://nasa3d.arc.nasa.gov/)
 - [Protein Data Bank](http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid=E3107058)
 - [Poly](https://poly.google.com/)
+- [Kronos glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 - [Unity Asset Store](https://assetstore.unity.com/)
 - [Open Game Art](https://opengameart.org/)
 - [Sketchfab](https://sketchfab.com/tags/library)
