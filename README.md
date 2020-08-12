@@ -132,6 +132,7 @@ Collection of Mixed Reality related resources, inspirations. Please file an issu
 - [Voxel Plugin for Unreal](https://voxelplugin.com/)
 - [PotassiumES: A lovely wider web app framework](https://potassiumes.org/)
 - [Quill VR Animation Tool for Oculus Rift](https://quill.fb.com/)
+- [RapidCompact Asset Optimization Platform](https://rapidcompact.com/)
 
 ## Develop
 
