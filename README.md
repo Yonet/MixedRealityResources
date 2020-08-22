@@ -1,6 +1,7 @@
 # MixedRealityResources
 
-  ![Mixed Reality Resources](images/MRresources.png)
+![Mixed Reality Resources](images/MRresources.png)
+- Short Link: [bit.ly/mixedrealityresources](https://bit.ly/mixedrealityresources)
 
 Collection of Mixed Reality related resources, inspirations. Please file an issue if you are looking for a resources that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create.
 
@@ -390,6 +391,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Open AR Cloud](https://www.openarcloud.org/)
 - [HoloLens Developer Slack Channel](https://holodevelopers.slack.com)
 - [WebVR Slack Channel](https://webvr-slack.herokuapp.com/)
+- [LearnXR Reddit](https://www.reddit.com/r/LearnXR/)
 - [ARKit Apple Developer Forum](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 - [Augmented Reality Reddit](https://www.reddit.com/r/augmentedreality/)
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
