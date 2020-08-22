@@ -3,7 +3,7 @@
 ![Mixed Reality Resources](images/MRresources.png)
 - Short Link: [bit.ly/mixedrealityresources](https://bit.ly/mixedrealityresources)
 
-Collection of Mixed Reality related resources, inspirations. Please file an issue if you are looking for a resources that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create.
+Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
 - [Design](#design)
   - [Guidelines](#guidelines)
@@ -209,6 +209,11 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [PSA: State of WebXR](https://docs.google.com/document/d/1R8Bz0_vK9YmY5-ZhsbLtZ9-DDJpTOgNeibFD4SdUnbw/edit#heading=h.yrc5sgqnnsk3)
 - [CreateWebXR.com](https://createwebxr.com/webVR.html)
 
+#### WebXR Tutorials
+
+ - [WebXR Tutorials YouTube Playlist](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ/playlists?view=50&sort=dd&shelf_id=2&view_as=subscriber)
+ - []()
+ 
 #### WebXR Examples
 
 - [Immersive Web WebXR Samples](https://immersive-web.github.io/webxr-samples/)
@@ -392,12 +397,21 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [HoloLens Developer Slack Channel](https://holodevelopers.slack.com)
 - [WebVR Slack Channel](https://webvr-slack.herokuapp.com/)
 - [LearnXR Reddit](https://www.reddit.com/r/LearnXR/)
+- [AFrame Communities](https://aframe.io/community/)
 - [ARKit Apple Developer Forum](https://forums.developer.apple.com/community/graphics-and-games/arkit)
 - [Augmented Reality Reddit](https://www.reddit.com/r/augmentedreality/)
+- [WindowsMR Reddit](https://www.reddit.com/r/WindowsMR/)
 - [Windows Mixed Reality Reddit](https://www.reddit.com/r/WindowsMR/)
 - [Mozilla Hubs](https://hubs.mozilla.com/)
 - [Catchar.io](https://catchar.io/)
 - [FrameVR Virtual Classroom and Meetings](https://framevr.io/)
+- [Virtual Reality Gaming Reddit](https://www.reddit.com/r/VRGaming/)
+- [AR MR XR Reddit](https://www.reddit.com/r/AR_MR_XR/)
+- [Mixed Reality Reddit](https://www.reddit.com/r/mixedreality/)
+- [Magic Leap Reddit](https://www.reddit.com/r/magicleap/)
+- [ARCoreCreators Reddit](https://www.reddit.com/r/ARCoreCreators/)
+- [ARCore Reddit](https://www.reddit.com/r/Arcore/)
+- [WebXR Reddit](https://www.reddit.com/r/WebXR/)
 
 ## Concepts and FAQ
 
