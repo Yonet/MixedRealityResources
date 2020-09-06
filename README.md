@@ -2,6 +2,8 @@
 
 ![Mixed Reality Resources](images/MRresources.png)
 - Short Link: [bit.ly/mixedrealityresources](https://bit.ly/mixedrealityresources)
+- XR Developer YouTube Channel: [www.youtube.com/c/xrdeveloper](https://www.youtube.com/c/xrdeveloper)
+- WebXR YouTube Channel: [bit.ly/WebXRYoutube](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
 
 Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
