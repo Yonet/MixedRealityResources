@@ -35,7 +35,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
   - [Inspirations](#inspirations)
 - [Attend](#attend)
   - [Conferences](#conferences)
-  - [Meetups](#meetups)
+  - [Meet](#meet)
     - [San Francisco](#san-francisco)
   - [Hackathons](#hackathons)
 - [Read](#read)
@@ -342,7 +342,14 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [VRX Conference and Expo](https://events.vr-intelligence.com/vrx/)
 - [University of Washington XR Day](https://www.hcde.washington.edu/xr-day)
 
-### Meetups
+### Meet
+
+#### Online
+
+- [Mozilla Hubs](https://hubs.mozilla.com/)
+- [Windows AltSpace VR](https://altvr.com/)
+- [Facebook Spaces](https://www.facebook.com/spaces)
+- [myxr.social](https://myxr.social/)
 
 #### San Francisco
 
