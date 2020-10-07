@@ -52,8 +52,9 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 - [Microsoft Mixed Reality Design](https://docs.microsoft.com/windows/mixed-reality/design?WT.mc_id=mixedrealityresources-github-ayyonet)
   ![Design for mixed reality](images/bicycle-leschi10.gif)
-- [Mixed Reality Interaction Fundamentals](https://docs.microsoft.com/windows/mixed-reality/interaction-fundamentals?WT.mc_id=mixedrealityresources-github-ayyonet)
 
+- [Mixed Reality Interaction Fundamentals](https://docs.microsoft.com/windows/mixed-reality/interaction-fundamentals?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Designing Holograms App for HoloLens](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=spatial-0000-ayyonet)
 - [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
 - [Unity VR Best Practices](https://learn.unity.com/tutorial/vr-best-practice#)
 
