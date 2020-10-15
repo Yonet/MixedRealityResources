@@ -422,6 +422,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [ARCoreCreators Reddit](https://www.reddit.com/r/ARCoreCreators/)
 - [ARCore Reddit](https://www.reddit.com/r/Arcore/)
 - [WebXR Reddit](https://www.reddit.com/r/WebXR/)
+- [WebXR Discord](https://discord.gg/Jt5tfaM)
 
 ## Concepts and FAQ
 
