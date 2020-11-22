@@ -129,10 +129,10 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 - [Unity3D](https://unity.com/)
 - [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
-- [Maquette](https://www.maquette.ms/?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Maquette](https://www.maquette.ms/?WT.mc_id=aiml-0000-ayyonet)
 - [Play Canvas](https://playcanvas.com/)
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
-- [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=aiml-0000-ayyonet)
 - [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
 - [Apple Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer)
 - [Voxel Plugin for Unreal](https://voxelplugin.com/)
@@ -162,7 +162,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
  ![WebXR API Emulator Chrome Extention](images/webxrEmulator.gif)
  
- - [StereoKit](https://playdeck.net/blog/introducing-stereokit?WT.mc_id=mixedrealityresources-github-ayyonet)
+ - [StereoKit](https://playdeck.net/blog/introducing-stereokit?WT.mc_id=aiml-0000-ayyonet)
  
  ![StereoKit Hello World!](images/stereoKit.gif)
  
@@ -171,14 +171,14 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 ### Repositories
 
-- [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
-- [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity?WT.mc_id=aiml-0000-ayyonet)
+- [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=aiml-0000-ayyonet)
 
 | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/BoulderBalloon.gif"> | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/WeatherCube.gif"> | <img src="https://github.com/Microsoft/MapsSDK-Unity/wiki/Content/MtFujiZoom.gif"> |
 | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 
 - [Google-AR](https://github.com/google-ar)
-- [Mixed Reality Toolkit Demos](https://github.com/microsoft/MixedRealityToolkit-Unity/tree/mrtk_release/Assets/MixedRealityToolkit.Examples/Demos?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Mixed Reality Toolkit Demos](https://github.com/microsoft/MixedRealityToolkit-Unity/tree/mrtk_release/Assets/MixedRealityToolkit.Examples/Demos?WT.mc_id=aiml-0000-ayyonet)
 - [Enklu Player](https://github.com/enklu/enklu-samples)
 - [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=aiml-0000-ayyonet)
 - [Unity AR Foundation Examples](https://github.com/Unity-Technologies/arfoundation-samples)
@@ -187,7 +187,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 - [Azure Spatial Anchors for Unreal Engine](https://docs.microsoft.com/windows/mixed-reality/unreal-azure-spatial-anchors?WT.mc_id=aiml-0000-ayyonet)
 - [Scene Understanding SDK for Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/scene-understanding-sdk?WT.mc_id=aiml-0000-ayyonet)
-- [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=aiml-0000-ayyonet)
 
 ### WebXR
 
@@ -203,7 +203,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 - [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
 - [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
 - [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
-- [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
 - [WebVR Rocks](https://webvr.rocks/)
 - [W3C WebXR Device API](https://www.w3.org/TR/webxr/)
@@ -232,7 +232,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 [![Preview of Unity WebXR-exported project in the browser](https://raw.githubusercontent.com/mozillareality/unity-webxr-export/master/img/webxr-small.gif)](https://mozillareality.github.io/unity-webxr-export/)
 
-- [BabylonJS](https://github.com/BabylonJS?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [BabylonJS](https://github.com/BabylonJS?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS](https://threejs.org/)
 - [A-frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
 - [AR.js](https://github.com/jeromeetienne/AR.js): AR.js uses artoolkit, and so it is marker based. artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
@@ -287,7 +287,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 ### Talks
 
-- [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions&WT.mc_id=aiml-0000-ayyonet#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
+- [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions&WT.mc_id=aiml-0000-ayyonet#top-anchor&WT.mc_id==aiml-0000-ayyonet)
 - [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id=aiml-0000-ayyonet#top-anchor)
 - [Exploring Augmented Reality on the Web - JSConfEU 2018](https://www.youtube.com/watch?v=bqmT0_w6_qc)
 
@@ -308,10 +308,10 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Voxel.js](http://voxeljs.com/#what)
 - [Unity3D](https://unity.com/)
 - [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
-- [Maquette](https://www.maquette.ms/?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Maquette](https://www.maquette.ms/?WT.mc_id=aiml-0000-ayyonet)
 - [Play Canvas](https://playcanvas.com/)
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
-- [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Remix 3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78?WT.mc_id=aiml-0000-ayyonet)
 - [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
 - [Spoke by Mozilla](https://hubs.mozilla.com/spoke)
 
@@ -327,7 +327,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 - [Google WebVR Experiments](https://experiments.withgoogle.com/collection/webvr)
 - [Google AR Experiments](https://experiments.withgoogle.com/collection/ar)
-- [Babylon.js Demos](https://www.babylonjs.com/community/?WT.mc_id=mixedrealityresources-github-ayyonet)
+- [Babylon.js Demos](https://www.babylonjs.com/community/?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS Examples](https://threejs.org/)
 - [3D Artist Online](https://www.3dartistonline.com/)
 - [SF Moma movement controlled experience](https://www.frogdesign.com/work/sf-moma)
