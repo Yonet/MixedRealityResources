@@ -28,7 +28,7 @@
 * [The Making of Galaxy Explorer for HoloLens 2](https://docs.microsoft.com/windows/mixed-reality/galaxy-explorer-update?WT.mc_id=aiml-0000-ayyonet)
 * [Scaling Datascape across devices with different performance](https://docs.microsoft.com/windows/mixed-reality/case-study-scaling-datascape-across-devices-with-different-performance?WT.mc_id=aiml-0000-ayyonet)
 * [Spatial sound design for HoloTour](https://docs.microsoft.com/windows/mixed-reality/case-study-spatial-sound-design-for-holotour?WT.mc_id=aiml-0000-ayyonet)
-* [Using spatial sound in RoboRaid](https://docs.microsoft.com/windows/mixed-reality/case-study-using-spatial-sound-in-roboraid?WT.mc_id=docs-twitter-ayyonet&WT.mc_id=aiml-0000-ayyonet)
+* [Using spatial sound in RoboRaid](https://docs.microsoft.com/windows/mixed-reality/case-study-using-spatial-sound-in-roboraid?WT.mc_id=aiml-0000-ayyonet)
 * [Using the stabilization plane to reduce holographic turbulence](https://docs.microsoft.com/windows/mixed-reality/case-study-using-the-stabilization-plane-to-reduce-holographic-turbulence?WT.mc_id=aiml-0000-ayyonet)
 * [Providing access to captivating experiences through immersive augmented reality](https://partner.microsoft.com/case-studies/enklu?WT.mc_id=aiml-0000-ayyonet)
 * [7 Inspiring Case Studies on VR and AR](https://medium.com/bestfolios/7-inspiring-case-studies-on-vr-and-ar-7235c562844b)
