@@ -50,11 +50,11 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 ### Guidelines
 
-- [Microsoft Mixed Reality Design](https://docs.microsoft.com/windows/mixed-reality/design?WT.mc_id=spatial-0000-ayyonet)
+- [Microsoft Mixed Reality Design](https://docs.microsoft.com/windows/mixed-reality/design?WT.mc_id=aiml-0000-ayyonet)
   ![Design for mixed reality](images/bicycle-leschi10.gif)
 
-- [Mixed Reality Interaction Fundamentals](https://docs.microsoft.com/windows/mixed-reality/interaction-fundamentals?WT.mc_id=spatial-0000-ayyonet)
-- [Designing Holograms App for HoloLens](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=spatial-0000-ayyonet)
+- [Mixed Reality Interaction Fundamentals](https://docs.microsoft.com/windows/mixed-reality/interaction-fundamentals?WT.mc_id=aiml-0000-ayyonet)
+- [Designing Holograms App for HoloLens](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=aiml-0000-ayyonet)
 - [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html)
 - [Unity VR Best Practices](https://learn.unity.com/tutorial/vr-best-practice#)
 
@@ -144,7 +144,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 
 ### Documentation
 
-- [Microsoft Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=spatial-0000-ayyonet)
+- [Microsoft Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=aiml-0000-ayyonet)
 - [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
 - [Google Developers WebXR](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
 - [ARCore - Android](https://developers.google.com/ar/)
@@ -180,13 +180,13 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [Google-AR](https://github.com/google-ar)
 - [Mixed Reality Toolkit Demos](https://github.com/microsoft/MixedRealityToolkit-Unity/tree/mrtk_release/Assets/MixedRealityToolkit.Examples/Demos?WT.mc_id=mixedrealityresources-github-ayyonet)
 - [Enklu Player](https://github.com/enklu/enklu-samples)
-- [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=spatial-0000-ayyonet)
+- [Tutorials and Samples](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=aiml-0000-ayyonet)
 - [Unity AR Foundation Examples](https://github.com/Unity-Technologies/arfoundation-samples)
 
 ### SDKs
 
-- [Azure Spatial Anchors for Unreal Engine](https://docs.microsoft.com/windows/mixed-reality/unreal-azure-spatial-anchors?WT.mc_id=spatial-0000-ayyonet)
-- [Scene Understanding SDK for Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/scene-understanding-sdk?WT.mc_id=spatial-0000-ayyonet)
+- [Azure Spatial Anchors for Unreal Engine](https://docs.microsoft.com/windows/mixed-reality/unreal-azure-spatial-anchors?WT.mc_id=aiml-0000-ayyonet)
+- [Scene Understanding SDK for Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/scene-understanding-sdk?WT.mc_id=aiml-0000-ayyonet)
 - [MapsSDK-Unity](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=mixedrealityresources-github-ayyonet)
 
 ### WebXR
@@ -199,7 +199,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 [![WebXR Examples](http://img.youtube.com/vi/Wwi7CFuksYc/0.jpg)](https://www.youtube.com/watch?v=Wwi7CFuksYc)
 
 - [Immersive/web.dev](https://immersiveweb.dev/)
-- [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=spatial-0000-ayyonet)
+- [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=aiml-0000-ayyonet)
 - [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
 - [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
 - [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
@@ -279,7 +279,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 ### Tutorials
 
 - [Unity Mixed Reality Lessons](aka.ms/MixedRealityCurriculum)
-- [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=spatial-0000-ayyonet)
+- [Microsoft Mixed Reality Tutorials](https://docs.microsoft.com/windows/mixed-reality/tutorials?WT.mc_id=aiml-0000-ayyonet)
 - [Azure Spatial Anchors](https://t.co/YuVZeZmhSN?amp=1)
 - [Google Developer Codelabs](https://codelabs.developers.google.com/?cat=Augmented+Reality)
 - [WebVR Starter Kit](https://hacks.mozilla.org/2019/02/webvr-starter-kit-mozilla-glitch/)
@@ -287,8 +287,8 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 ### Talks
 
-- [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions&WT.mc_id=spatial-0000-ayyonet#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
-- [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id=spatial-0000-ayyonet#top-anchor)
+- [Intro to Building Apps for HoloLens 2 Using Unity and Mixed Reality Toolkit](https://mybuild.techcommunity.microsoft.com/sessions/77094?source=sessions&WT.mc_id=aiml-0000-ayyonet#top-anchor&WT.mc_id==mixedrealityresources-github-ayyonet)
+- [Developing Mobile Augmented Reality (AR) Applications with Azure Spatial Anchors](https://mybuild.techcommunity.microsoft.com/sessions/77246?source=sessions&WT.mc_id=aiml-0000-ayyonet#top-anchor)
 - [Exploring Augmented Reality on the Web - JSConfEU 2018](https://www.youtube.com/watch?v=bqmT0_w6_qc)
 
 ### Media/Newsletter
@@ -432,14 +432,14 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
   - [Museums and Libraries](./faq.md#museums-and-libraries)
   - [Entertainment](./faq.md#entertainment)
   - [Web 3D](https://www.web3d.org/case-studies)
-- [What is Mixed Reality/ Augmented Reality/ Virtual Reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality?WT.mc_id=spatial-0000-ayyonet)
+- [What is Mixed Reality/ Augmented Reality/ Virtual Reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality?WT.mc_id=aiml-0000-ayyonet)
 - [How do you decide if VR or AR is the right choice for your application?](https://twitter.com/WindowsDocs/status/1182311208529121280)
 - [What is an Anchor?](https://github.com/immersive-web/anchors/blob/master/explainer.md)
-- [What is a Hologram?](https://docs.microsoft.com/windows/mixed-reality/hologram?WT.mc_id=spatial-0000-ayyonet)
-- [What do I need to learn to start developing for Mixed Reality?](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=spatial-0000-ayyonet)
-- [What is Spatial Sound?](https://docs.microsoft.com/windows/mixed-reality/spatial-sound?WT.mc_id=spatial-0000-ayyonet)
+- [What is a Hologram?](https://docs.microsoft.com/windows/mixed-reality/hologram?WT.mc_id=aiml-0000-ayyonet)
+- [What do I need to learn to start developing for Mixed Reality?](https://docs.microsoft.com/windows/mixed-reality/development?WT.mc_id=aiml-0000-ayyonet)
+- [What is Spatial Sound?](https://docs.microsoft.com/windows/mixed-reality/spatial-sound?WT.mc_id=aiml-0000-ayyonet)
 - [What are security concerns and challenges with Mixed Reality application?]()
 - [How do you consider accessibility, diversity, and inclusiveness into your design?]()
-- [What is a Cloud Anchor?](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=spatial-0000-ayyonet)
-- [What is Scene Understanding?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=spatial-0000-ayyonet)
-- [What would you use Scene Understanding for?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=spatial-0000-ayyonet#common-usage-scenarios)
+- [What is a Cloud Anchor?](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=aiml-0000-ayyonet)
+- [What is Scene Understanding?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=aiml-0000-ayyonet)
+- [What would you use Scene Understanding for?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=aiml-0000-ayyonet#common-usage-scenarios)
