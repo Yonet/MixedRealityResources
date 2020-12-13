@@ -79,6 +79,12 @@
 * [Museum Next: How Museums are using Augmented Reality](https://www.museumnext.com/article/how-museums-are-using-augmented-reality/)
 * [Museum Next: Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
 * [Augmenting Museum Experiences with Mixed Reality](http://www.academia.edu/download/38879412/KSCE04HughesEtAl.pdf)
+* [National Art Gallery](https://matterport.com/industries/gallery/national-gallery-sainsbury-wing)
+* [British Art Museum](https://britishmuseum.withgoogle.com/)
+
+##### WebXR Museum and libraries
+
+* [Infinite Art Museum](https://infiniteartmuseum.com/virtual-reality-art-museum/)
 
 #### Entertainment
 
