@@ -139,6 +139,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [PotassiumES: A lovely wider web app framework](https://potassiumes.org/)
 - [Quill VR Animation Tool for Oculus Rift](https://quill.fb.com/)
 - [RapidCompact Asset Optimization Platform](https://rapidcompact.com/)
+- [Gravity Sketch](https://www.gravitysketch.com/)
 
 ## Develop
 
