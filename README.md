@@ -2,8 +2,8 @@
 
 [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=/0FedjmMriSA) ![Mixed Reality Resources](images/MRresources.png) 
 - Short Link: [bit.ly/MixedRealityResources](https://bit.ly/MixedRealityResources)
-- XR Developer YouTube Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/xrdeveloper)
-- WebXR YouTube Channel: [bit.ly/WebXRYoutube](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
+- XR Developer YouTube Channel: [www.youtube.com/XRDeveloper](https://www.youtube.com/XRDeveloper)
+- WebXR YouTube Channel: [www.youtube.com/WebXR](https://www.youtube.com/WebXR)
 
 Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
