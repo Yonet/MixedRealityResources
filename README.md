@@ -150,6 +150,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [Google Developers WebXR](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
 - [ARCore - Android](https://developers.google.com/ar/)
 - [ARKit - IOS](https://developer.apple.com/augmented-reality/)
+- [Magic Leap](https://developer.magicleap.com/)
 
 ### Developer Tools
 
