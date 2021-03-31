@@ -1,9 +1,9 @@
 # MixedRealityResources
 
-[![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=/0FedjmMriSA) ![Mixed Reality Resources](images/MRresources.png) 
-- Short Link: [bit.ly/MixedRealityResources](https://bit.ly/MixedRealityResources)
-- XR Developer YouTube Channel: [www.youtube.com/XRDeveloper](https://www.youtube.com/XRDeveloper)
-- WebXR YouTube Channel: [www.youtube.com/WebXR](https://www.youtube.com/WebXR)
+
+
+| [![Short Link to Resources](images/MRresources.png)](bit.ly/MixedRealityResources) |  [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=/0FedjmMriSA) | [![WebXR YouTube Channel](https://raw.githubusercontent.com/immersive-web/webxr-samples/main/media/logo/webxr-logo-mark.svg)](www.youtube.com/WebXR) |
+|:-- |:-- |:-- | 
 
 Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
@@ -193,11 +193,12 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 ### WebXR
 
 Check out the current browser support for WebXR at [CanIUse.com](https://caniuse.com/#search=webxr).
+[3D on the Web and WebXR FrontendMasters Course](https://msft.it/61692VTJJg)
 
 #### WebXR Documentation
 
 
-[![WebXR Examples](http://img.youtube.com/vi/Wwi7CFuksYc/0.jpg)](https://www.youtube.com/watch?v=Wwi7CFuksYc)
+[![WebXR Examples](http://img.youtube.com/vi/ypSkIYpJjE8/0.jpg)](https://youtu.be/ypSkIYpJjE8)
 
 - [Immersive/web.dev](https://immersiveweb.dev/)
 - [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=aiml-0000-ayyonet)
