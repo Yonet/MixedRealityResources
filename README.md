@@ -248,6 +248,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [XR Chat](https://github.com/xrchat)
 - [ARnft](https://github.com/kalwalt/ARnft)
 - [Handy.js](https://github.com/stewdio/handy.js)
+- [Wonderland Engine](https://wonderlandengine.com/)
 
  ![Handy.js](https://github.com/stewdio/handy.js/blob/master/media/vr-hands.gif)
 
