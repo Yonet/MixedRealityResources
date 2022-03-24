@@ -243,6 +243,7 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
   [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
  
 - [Three Mesh UI](https://github.com/felixmariotto/three-mesh-ui)
+- [NodeToy](https://nodetoy.co/): Shader tool
 
 <a href="https://three-mesh-ui.herokuapp.com/#interactive_button">
   <img alt="buttons example" target="_blank" src="https://felixmariotto.s3.eu-west-3.amazonaws.com/three-mesh-ui-teasers/buttons_opti.gif" width="45%">
