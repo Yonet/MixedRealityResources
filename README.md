@@ -202,16 +202,15 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 
 [![WebXR Examples](http://img.youtube.com/vi/ypSkIYpJjE8/0.jpg)](https://youtu.be/ypSkIYpJjE8)
 
-- [Immersive/web.dev](https://immersiveweb.dev/)
-- [Microsoft WebVR docs](https://docs.microsoft.com/windows/mixed-reality/using-webvr-in-edge-with-windows-mixed-reality?WT.mc_id=aiml-0000-ayyonet)
+- [immersiveweb.dev](https://immersiveweb.dev/)
+- [Microsoft WebXR docs](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/javascript/webxr-overview)
 - [Mozilla WebXR Blog](https://blog.mozvr.com/tag/webxr/)
 - [Google WebXR Updates](https://developers.google.com/web/updates/tags/webxr)
 - [Google WebXR Device API docs](https://developers.google.com/web/fundamentals/vr/status/#xrdevice)
 - [BabylonJS Docs Samples](https://doc.babylonjs.com/examples/?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS VR Content](https://threejs.org/docs/index.html#manual/en/introduction/How-to-create-VR-content)
-- [WebVR Rocks](https://webvr.rocks/)
 - [W3C WebXR Device API](https://www.w3.org/TR/webxr/)
-- [A-Frame Docs](https://aframe.io/docs/0.9.0/introduction/)
+- [A-Frame Docs](https://aframe.io/docs/1.3.0/introduction/)
 - [Augmented Reality with Model-Viewer Web Component](https://developers.google.com/web/updates/2019/05/model-viewer-ar)
 - [PSA: State of WebXR](https://docs.google.com/document/d/1R8Bz0_vK9YmY5-ZhsbLtZ9-DDJpTOgNeibFD4SdUnbw/edit#heading=h.yrc5sgqnnsk3)
 - [CreateWebXR.com](https://createwebxr.com/webVR.html)
@@ -225,25 +224,23 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 
 - [Immersive Web WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 - [ImmersiveWeb.dev Demos](https://immersiveweb.dev/#tryoutsomedemos)
-- [Servo Firefox Examples](https://servo.org/hl-home/)
 - [WebXR AR plane detection and Anchors](https://storage.googleapis.com/chromium-webxr-test/r695783/proposals/phone-ar-plane-detection-anchors.html)
 Note: WebXR Anchors experimental flag needs to be enabled to see this example. 
  ![WebXR Flags](images/webXRAnchors.png)
 
 #### WebXR Libraries
 
-- [Unity WebXR Exporter](https://github.com/MozillaReality/unity-webxr-export)
+- [Unity WebXR Exporter](https://github.com/De-Panther/unity-webxr-export)
 
-[![Preview of Unity WebXR-exported project in the browser](https://raw.githubusercontent.com/mozillareality/unity-webxr-export/master/img/webxr-small.gif)](https://mozillareality.github.io/unity-webxr-export/)
+[![Preview of Unity WebXR-exported project in the browser](https://github.com/De-Panther/unity-webxr-export/blob/master/Documentation/webxr-input-profiles.gif)](https://de-panther.github.io/unity-webxr-export/Build/)
 
 - [BabylonJS](https://github.com/BabylonJS?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS](https://threejs.org/)
-- [A-frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
+- [A-Frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
 - [AR.js](https://github.com/jeromeetienne/AR.js): AR.js uses artoolkit, and so it is marker based. artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
   [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
- 
-- [Three Mesh UI](https://github.com/felixmariotto/three-mesh-ui)
 - [NodeToy](https://nodetoy.co/): Shader tool
+- [Three Mesh UI](https://github.com/felixmariotto/three-mesh-ui)
 
 <a href="https://three-mesh-ui.herokuapp.com/#interactive_button">
   <img alt="buttons example" target="_blank" src="https://felixmariotto.s3.eu-west-3.amazonaws.com/three-mesh-ui-teasers/buttons_opti.gif" width="45%">
@@ -267,12 +264,11 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Three.ar.js](https://github.com/google-ar/three.ar.js)
 - [Exokit Native Engine](https://github.com/exokitxr/exokit)
 - [Viro](https://viromedia.com/)
-- [XR Chat](https://github.com/xrchat)
 - [ARnft](https://github.com/kalwalt/ARnft)
-- [Handy.js](https://github.com/stewdio/handy.js)
 - [Wonderland Engine](https://wonderlandengine.com/)
-
- ![Handy.js](https://github.com/stewdio/handy.js/blob/master/media/vr-hands.gif)
+- [Handy.js](https://github.com/stewdio/handy.js)
+ 
+ ![Handy.js](https://github.com/stewdio/handy.js/blob/master/media/a-to-fire.gif)
 
 #### WebXR Repositories
 
