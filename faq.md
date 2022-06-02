@@ -94,3 +94,18 @@
 ## How do you consider accessibility, diversity, and inclusiveness into your design?
 
 - [Augmented Reality and Accessibility](https://gettecla.com/blogs/news/augmented-reality-and-accessibility)
+
+## 3D file formats
+
+### USD
+
+Universal Scene Description (USD) is a framework for interchange of 3D computer graphics data, created by Pixar. The framework focuses on collaboration, non-destructive editing, and enabling multiple views and opinions about graphics data. [Read more](https://en.wikipedia.org/wiki/Universal_Scene_Description#:~:text=Universal%20Scene%20Description%20(USD)%20is,and%20opinions%20about%20graphics%20data.)
+
+### USDZ
+
+USDZ is an unencrypted zip file, without compression. USDZ provides a container, or package, to render several objects and tools as one object. The file is read-only, and to edit it, you use the unzip command at the command line, called Terminal in Mac and iOS development.
+
+### glTF
+
+[glTF™](https://www.khronos.org/gltf/) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by engines and applications. glTF minimizes the size of 3D assets, and the runtime processing needed to unpack and use them. glTF defines an extensible, publishing format that streamlines authoring workflows and interactive services by enabling the interoperable use of 3D content across the industry.
+
