@@ -465,3 +465,4 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [What is a Cloud Anchor?](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=aiml-0000-ayyonet)
 - [What is Scene Understanding?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=aiml-0000-ayyonet)
 - [What would you use Scene Understanding for?](https://docs.microsoft.com/windows/mixed-reality/scene-understanding?WT.mc_id=aiml-0000-ayyonet#common-usage-scenarios)
+- [What are 3D file formats & how do they compare?](https://github.com/Yonet/MixedRealityResources/blob/main/faq.md#3d-file-formats)
