@@ -99,7 +99,7 @@
 
 ### USD
 
-Universal Scene Description (USD) is a framework for interchange of 3D computer graphics data, created by Pixar. The framework focuses on collaboration, non-destructive editing, and enabling multiple views and opinions about graphics data. [Read more](https://en.wikipedia.org/wiki/Universal_Scene_Description#:~:text=Universal%20Scene%20Description%20(USD)%20is,and%20opinions%20about%20graphics%20data.)
+Universal Scene Description (USD) is a framework for interchange of 3D computer graphics data, created by Pixar. The framework focuses on collaboration, non-destructive editing, and enabling multiple views and opinions about graphics data. [Read more](https://graphics.pixar.com/usd/release/index.html)
 
 ### USDZ
 
