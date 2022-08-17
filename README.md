@@ -219,6 +219,7 @@ Check out the current browser support for WebXR at [CanIUse.com](https://caniuse
 
  - [WebXR Tutorials YouTube Playlist](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ/playlists?view=50&sort=dd&shelf_id=2&view_as=subscriber)
  - [Mozilla Labs Learn](https://labs.mozilla.org/learn/)
+ - [SBCode.net](https://sbcode.net/threejs/gltf-animation/)
  
 #### WebXR Examples
 
