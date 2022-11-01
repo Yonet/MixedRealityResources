@@ -7,6 +7,10 @@
 
 Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
+- [Devices]
+  - [Mixed Reality](#mixed-reality)
+  - [Augmented Reality](#augmented-reality)
+  - [Virtual Reality](#virtual-reality)
 - [Design](#design)
   - [Guidelines](#guidelines)
   - [Assets](#assets)
@@ -45,6 +49,20 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [Watch](#watch)
 - [Join](#join)
 - [Concepts and FAQ](#concepts-and-faq)
+
+## Devices
+
+### Mixed Reality
+
+  - [HoloLens 2](https://www.microsoft.com/en-us/hololens/buy?WT.mc_id=javascript-0000-ayyonet)
+  - [Magic Leap 2](https://www.magicleap.com/magic-leap-2)
+  - [Lynx R1](https://www.lynx-r.com/)
+  - [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
+
+### Augmented Reality
+
+
+### Virtual Reality
 
 ## Design
 
