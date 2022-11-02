@@ -7,7 +7,7 @@
 
 Collection of Mixed Reality related resources, inspirations. Please ask on [LearnXR Reddit](https://www.reddit.com/r/LearnXR/) or  file an issue, if you are looking for a resource that is not listed or if you have suggestions or additions. Hope it is helps you to learn and create. 
 
-- [Devices]
+- [Devices](#devices)
   - [Mixed Reality](#mixed-reality)
   - [Augmented Reality](#augmented-reality)
   - [Virtual Reality](#virtual-reality)
