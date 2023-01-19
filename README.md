@@ -249,13 +249,9 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 
 #### WebXR Libraries
 
-- [Unity WebXR Exporter](https://github.com/De-Panther/unity-webxr-export)
-
-[![Preview of Unity WebXR-exported project in the browser](https://github.com/De-Panther/unity-webxr-export/blob/master/Documentation/webxr-input-profiles.gif)](https://de-panther.github.io/unity-webxr-export/Build/)
-
-- [BabylonJS](https://github.com/BabylonJS?WT.mc_id=aiml-0000-ayyonet)
 - [ThreeJS](https://threejs.org/)
 - [A-Frame](https://aframe.io/): Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop.
+- [BabylonJS](https://github.com/BabylonJS?WT.mc_id=aiml-0000-ayyonet)
 - [AR.js](https://github.com/jeromeetienne/AR.js): AR.js uses artoolkit, and so it is marker based. artoolkit is a software with years of experience doing augmented reality. It is able to do a lot!
   [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
 - [NodeToy](https://nodetoy.co/): Shader tool
@@ -288,6 +284,12 @@ Note: WebXR Anchors experimental flag needs to be enabled to see this example.
 - [Handy.js](https://github.com/stewdio/handy.js)
  
  ![Handy.js](https://github.com/stewdio/handy.js/blob/master/media/a-to-fire.gif)
+ 
+ - [MyWebAR](https://mywebar.com/)
+ - [Unity WebXR Exporter](https://github.com/De-Panther/unity-webxr-export)
+
+[![Preview of Unity WebXR-exported project in the browser](https://github.com/De-Panther/unity-webxr-export/blob/master/Documentation/webxr-input-profiles.gif)](https://de-panther.github.io/unity-webxr-export/Build/)
+
 
 #### WebXR Repositories
 
