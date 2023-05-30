@@ -128,6 +128,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [Bitgem 3D](https://shop.bitgem3d.com/collections/on-sale)
 - [Play Canvas curated assets](https://github.com/playcanvas/awesome-playcanvas)
 - [List of common 3D Test models](https://en.wikipedia.org/wiki/List_of_common_3D_test_models)
+- [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 
 ### Blogs
 
